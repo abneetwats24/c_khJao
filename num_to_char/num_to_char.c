@@ -36,7 +36,6 @@ int main(){
 		number = number/10;
 	}
 	printf("numbchar = %s\n",numbchar);
-	printf("number = %d\n",number);
 	return number;	
 }
 
