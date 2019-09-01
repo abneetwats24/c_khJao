@@ -33,7 +33,7 @@ void main()
 	char antedecent[100][50];
 	char z[100];
 	char *result;
-       	printf("Enter total no. of production(less than 5) :\n");
+       	printf("Enter total no. of production :\n");
        	scanf("%d",&n);
 	printf("Enter productions\n");
 	for(temp=0;temp<n;temp++)
